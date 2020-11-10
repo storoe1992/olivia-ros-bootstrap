@@ -1,0 +1,16 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    }
+
+.hero {
+    background-image: url('../img/bg-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-bottom: 10rem;
+}
+
+.card{
+    width : 24.163rem;
+    object-fit: cover;
+}
